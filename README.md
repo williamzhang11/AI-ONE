@@ -1,5 +1,10 @@
 # AI-ONE
-AI-ONE helps developers access OpenAI, Claude, Gemini, and more through one OpenAI-compatible API, with lower costs, unified billing, usage tracking, routing, fallback, and free testing credits for new users.
+AI-ONE helps developers access OpenAI, Claude, Gemini, and more through one OpenAI-compatible API, 
+ - with lower costs
+ - unified billing
+ - usage tracking
+ - routing, fallback
+ - free testing credits for new users.
 
 
 
